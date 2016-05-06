@@ -4,7 +4,7 @@ Here you can give feedback or report an issue of the website http://smate.me
 
 Just open an Issue.
 
-If you find serious security issues better send an email to security [at] smate.me.
+If you find a serious security issue better send an email to security [at] smate.me.
 
 Thanks in advance for all contributions!
 
