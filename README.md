@@ -1,6 +1,6 @@
 @GitHub Sorry for abusing your great platform like this <3
 
-Here you can give feedback or report an issue of the website https://smate.me
+Here you can give feedback or report an issue for the website https://smate.me
 
 Please open an issue.
 
